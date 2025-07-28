@@ -14,13 +14,13 @@ body {
   margin: 0;
   padding: 0;
   background: #F5EFE7; /* Cream background for elegance */
-  font-family: Arial, "Times New Roman", serif;
+  font-family: "Times New Roman", serif;
 }
 
 /* Typography */
 h1,
 li {
- font-family: Arial, "Times New Roman", serif;
+  font-family: "Times New Roman", serif;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
