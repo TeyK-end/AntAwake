@@ -256,23 +256,23 @@
       },
     },
   },
-    PodCast: {
+    Podcast: {
       mainContent: {
         imageSrc: "image/postcard1.png",
-        title: "Chào mừng đến với PodCast",
+        title: "Chào mừng đến với Podcast",
         description:
           "Thiết kế và gửi những tấm bưu thiếp độc đáo để chia sẻ cảm xúc!",
       },
     },
-    WeBlog: {
-      WeBlog1: {
+    Weblog: {
+      Weblog1: {
         imageSrc: "image/default.png",
-        title: "WeBlog1",
+        title: "Weblog1",
         description: "Có những hành trình không chỉ để thi đấu – mà cFòn để cảm, để sống trọn vẹn và để mang theo suốt đời như một phần ký ức đẹp đẽ nhất. Với tôi, đó chính là những ngày tháng rong ruổi qua các tỉnh thành của đất nước, tham gia các giải đấu, và tình cờ chạm đến vẻ đẹp của quê hương theo một cách đặc biệt nhất. Tôi đã từng có mặt tại Đắk Lắk, nơi cao nguyên lộng gió và những rừng cà phê trải dài ngút mắt. Ở đó, giữa tiếng cồng chiêng và sự giản dị của con người Tây Nguyên, tôi cảm nhận được một sức sống mãnh liệt – giống như tinh thần mà mỗi vận động viên cần có khi bước vào cuộc thi. Hải Phòng là một điểm đến khác, với nhịp sống sôi động, những con phố mang hương vị biển và cả sự cởi mở, nhiệt tình rất riêng của người miền Bắc. Thi đấu ở một thành phố cảng, tôi thấy mình như được tiếp thêm năng lượng – mạnh mẽ và dứt khoát. Quảng Ngãi để lại trong tôi cảm giác yên bình và mộc mạc. Có lẽ chưa từng có nơi nào mà tôi lại thấy thời gian trôi chậm đến thế, giữa những con đường làng và những buổi chiều lặng lẽ. Sau những giờ thi đấu căng thẳng, tôi tìm thấy sự thảnh thơi mà lâu lắm rồi mình mới chạm tới. Ở An Giang, tôi lại bị choáng ngợp bởi vẻ đẹp sông nước miền Tây và văn hóa đặc sắc của vùng đất giáp biên. Người dân nơi đây chân chất, gần gũi đến lạ, và luôn sẵn sàng dành cho tôi những lời chúc may mắn bằng nụ cười thật lòng nhất. Khánh Hòa và Bình Thuận – hai điểm đến ven biển – là những nơi tôi nhớ mãi không quên. Thi đấu xong, chỉ cần đi dạo dọc bờ biển, hít một hơi thật sâu trong gió mặn và nhìn mặt trời lặn xuống đại dương, tôi như được chữa lành. Ở đó, tôi học được cách trân trọng từng khoảnh khắc nhỏ bé trong cuộc sống. Mỗi chặng đường tôi đi qua là một mảnh ghép cảm xúc. Có những lần thất bại khiến tôi lặng người, nhưng cũng có những chiến thắng vỡ òa trong nước mắt. Dẫu sao, tất cả đều góp phần tạo nên quãng thời gian đẹp nhất của tuổi trẻ – nơi tôi vừa được sống hết mình cho đam mê, vừa được cảm nhận vẻ đẹp kỳ diệu của đất nước theo cách riêng. Tôi không biết tương lai mình sẽ đi bao xa, nhưng tôi biết chắc: những ngày tháng thi đấu qua các tỉnh thành ấy – từ cao nguyên, biển cả, đến đồng bằng – sẽ luôn là một phần ký ức đáng tự hào và đầy thương nhớ.",
       },
-      WeBlog2: {
+      Weblog2: {
         imageSrc: "image/default.png",
-        title: "WeBlog2",
+        title: "Weblog2",
         description: "Với kinh nghiệm đi du lịch kha khá nơi của mình, hôm nay mình sẽ đúc kết cho bạn các tips cũng như cần chuẩn bị gì cho một chuyến đi nếu bạn lần đầu đi du lịch 1. Bạn cần lập kế hoạch cho chuyến đi Bạn nên chọn điểm đến phù hợp: Dựa vào thời gian, ngân sách và sở thích của bản thân, bạn có thể lên kế hoạch cho chuyến đi phù hợp với bạn để tránh mất thời gian mà lại không mang lại trải nghiệm đáng nhớ như lần đầu mình đi du lịch gặp phải Tìm hiểu thông tin: Khí hậu, văn hóa, ẩm thực, các điểm tham quan nơi bạn ghé thăm Đặt trước dịch vụ: Vé máy bay, khách sạn, vé tham quan để tránh tình trạng cháy phòng hoặc giá cao trong các mùa lễ hội hay du lịch. Điều này rất quan trọng vì mình đã từng bị hét giá phòng rất cao, nên hãy đặt trước trên các ứng dụng nhé. 2. Điều quan trọng thứ hai chính là hành lí Mang đồ dùng cần thiết: Quần áo phù hợp với thời tiết, giày dép thoải mái, thuốc men cá nhân, giấy tờ tùy thân. Mang các vật quan trọng như sạc dự phòng, tai nghe, ổ cắm chuyển đổi nếu đi nước ngoài. 3. Thứ ba chính là lập một ngân sách cụ thể cho các chi tiêu của bạn Lập ngân sách cụ thể cho ăn uống, di chuyển, mua sắm, vé tham quan. Nên dư một khoảng để tránh việc hao hụt Mang theo cả tiền mặt và thẻ ngân hàng, nhưng đừng mang quá nhiều tiền mặt. Tải sẵn các ứng dụng thanh toán hoặc ngân hàng số để tiện lợi hơn khi chi tiêu. 4. Nếu bạn muốn khám phá ẩm thực địa phương có thể tham khảo trước cách sau, mình đã từng áp dụng Nên tìm hiểu trước các món đặc sản và quán ăn uy tín trên Google Maps, TripAdvisor hoặc các hội nhóm du lịch. Đến những nơi có nhiều dân địa phương gợi ý sẽ đảm bảo hơn 5. Lưu giữ kỉ niệm cho chuyến đi Vì là chuyến đi đầu tiên nên mình nghĩ bạn nên chụp thật nhiều ảnh để làm kỉ niệm ở các khu vui chơi và các món ăn địa phương, có thể tham khảo cách tips sau: Chụp ảnh, quay video, viết nhật ký hành trình. Sao lưu ảnh lên Google Photos hoặc iCloud để tránh mất dữ liệu nếu lỡ mất điện thoại nhé",
       },
     },
@@ -287,20 +287,20 @@
 
   // Hàm cập nhật URL cho các liên kết (THÊM MỚI)
   function updateLinks(menu, region) {
-    if (["PodCast", "WeBlog", "Video"].includes(menu)) { // nếu chọn 1 trong các mục trên thì thêm vào menu
+    if (["Podcast", "Weblog", "Video"].includes(menu)) { // nếu chọn 1 trong các mục trên thì thêm vào menu
       const content = contentMap[menu]; 
       if (!content) return; // không có nội dung thì dừng
-      if (menu === "PodCast") {
+      if (menu === "Podcast") {
         document.querySelectorAll("#postCardContent a").forEach((link, i) => {
           const section = `postcard${i + 1}`;
-          link.href = `search-bao/bao.html?menu=PodCast&section=${section}&title=${encodeURIComponent(
+          link.href = `search-bao/bao.html?menu=Podcast&section=${section}&title=${encodeURIComponent(
             content[section].title
           )}`;
         });
-      } else if (menu === "WeBlog") {
-        document.querySelectorAll("#WeBlogContent a").forEach((link, i) => {
-          const section = `WeBlog${i + 1}`;
-          link.href = `search-bao/bao.html?menu=WeBlog&section=${section}&title=${encodeURIComponent(
+      } else if (menu === "Weblog") {
+        document.querySelectorAll("#WeblogContent a").forEach((link, i) => {
+          const section = `Weblog${i + 1}`;
+          link.href = `search-bao/bao.html?menu=Weblog&section=${section}&title=${encodeURIComponent(
             content[section].title
           )}`;
         });
@@ -377,7 +377,7 @@
     const imgtilte2Container = document.querySelector(".imgtilte-2-container");
     const imgtilte3Container = document.querySelector(".imgtilte-3-container");
     const postCardContent = document.querySelector("#postCardContent");
-    const WeBlogContent = document.querySelector("#WeBlogContent");
+    const WeblogContent = document.querySelector("#WeblogContent");
     const videoContent = document.querySelector("#videoContent");
     const backgroundText = document.querySelector(".background-text");
     const backgroundText2 = document.querySelector(".background-text-2");
@@ -391,7 +391,7 @@
     if (imgtilte2Container) imgtilte2Container.style.display = "flex";
     if (imgtilte3Container) imgtilte3Container.style.display = "flex";
     if (postCardContent) postCardContent.style.display = "none";
-    if (WeBlogContent) WeBlogContent.style.display = "none";
+    if (WeblogContent) WeblogContent.style.display = "none";
     if (videoContent) videoContent.style.display = "none";
     if (backgroundText) backgroundText.style.display = "block";
     if (backgroundText2) backgroundText2.style.display = "block";
@@ -521,7 +521,7 @@
     // Cho phép hiển thị quảng cáo sau 10 giây
     setTimeout(() => {
       readyToAd = true;
-    }, 10000); // 10.000 ms = 10 giây
+    }, 100000); // 10.000 ms = 10 giây
 
     document.addEventListener("click", (event) => {
       if (
@@ -593,7 +593,7 @@
           ".imgtilte-3-container"
         );
         const postCardContent = document.querySelector("#postCardContent");
-        const WeBlogContent = document.querySelector("#WeBlogContent");
+        const WeblogContent = document.querySelector("#WeblogContent");
         const videoContent = document.querySelector("#videoContent");
         const backgroundText = document.querySelector(".background-text");
         const backgroundText2 = document.querySelector(".background-text-2");
@@ -605,7 +605,7 @@
         if (imgtilte2Container) imgtilte2Container.style.display = "none";
         if (imgtilte3Container) imgtilte3Container.style.display = "none";
         if (postCardContent) postCardContent.style.display = "none";
-        if (WeBlogContent) WeBlogContent.style.display = "none";
+        if (WeblogContent) WeblogContent.style.display = "none";
         if (videoContent) videoContent.style.display = "none";
         if (backgroundText) backgroundText.style.display = "none";
         if (backgroundText2) backgroundText2.style.display = "none";
@@ -796,7 +796,7 @@
           }
         }
     
-        else if (text === "PodCast") {
+        else if (text === "Podcast") {
           if (postCardContent) {
             postCardContent.style.display = "block";
             hrElements.forEach((hr) => (hr.style.display = "none"));
@@ -804,13 +804,13 @@
             void postCardContent.offsetWidth;
             postCardContent.classList.add("active");
           }
-        } else if (text === "WeBlog") {
-          if (WeBlogContent) {
-            WeBlogContent.style.display = "block";
+        } else if (text === "Weblog") {
+          if (WeblogContent) {
+            WeblogContent.style.display = "block";
             hrElements.forEach((hr) => (hr.style.display = "none"));
-            WeBlogContent.classList.remove("active");
-            void WeBlogContent.offsetWidth;
-            WeBlogContent.classList.add("active");
+            WeblogContent.classList.remove("active");
+            void WeblogContent.offsetWidth;
+            WeblogContent.classList.add("active");
           }
         } else if (text === "Video") {
           if (videoContent) {
@@ -922,8 +922,8 @@
             targetElement = document.querySelectorAll(".imgtilte-3")[index];
           } else if (section === "postcard") {
             targetElement = document.querySelector("#postCardContent");
-          } else if (section === "weblog") {
-            targetElement = document.querySelector("#WeBlogContent");
+          } else if (section === "Weblog") {
+            targetElement = document.querySelector("#WeblogContent");
           } else if (section === "video") {
             targetElement = document.querySelector("#videoContent");
           }
@@ -948,9 +948,9 @@
         "Địa Điểm": document.querySelector(".background-text"),
         "Văn Hoá": document.querySelector(".background-text"),
         "Ẩm Thực": document.querySelector(".background-text"),
-        WeBlog: document.querySelector(".weblog-content"),
+        Weblog: document.querySelector(".Weblog-content"),
         Video: document.querySelector(".video-content"),
-        PodCast: document.querySelector(".postcard-content"),
+        Podcast: document.querySelector(".postcard-content"),
       };
 
       Object.values(sections).forEach((s) => (s.style.display = "none"));
@@ -1087,7 +1087,7 @@
       imgtilte2_1: {
         imageSrc: "../image/cantho.png",
         title: "Cần Thơ",
-        description: "Cần Thơ là một thành phố cũ thuộc tỉnh Cần Thơ cũ và là tỉnh lỵ của tỉnh Cần Thơ trước khi thành lập thành phố Cần Thơ trực thuộc trung ương ngày nay. Thành phố Cần Thơ lúc bấy giờ có địa giới hành chính tương ứng với các quận Ninh Kiều, Bình Thủy, một phần quận Cái Răng và một phần huyện Phong Điền ngày nay. Cần Thơ vừa mang một nét hiện đại của đô thị kèm theo đó là sự mộc mạc của miền tây sông nước, khi đến đây, du khách có thể trải nghiệm các loại hình mua bán trên sông, làm hủ tiếu và tham quan các vườn trái cây và cù lao. Đây có lẽ là một địa điểm lí tưởng dành cho những ai thích khám phá miền sông nước và đặc sản trái cây ngon ngọt quanh năm. Bên cạnh đó, du khách vẫn có thể trải nghiệm các tiện ích hiện đại và những hoạt động thú vị tại nơi này. Gợi ý: Tham quan chợ nổi Cái Răng, du thuyền sông Hậu."
+        description: "Cần Thơ là thành phố trung tâm của vùng đồng bằng sông Cửu Long, được mệnh danh là Tây Đô – thủ phủ miền Tây. Không chỉ nổi bật với nền văn hóa sông nước đặc sắc, Cần Thơ còn thu hút du khách bởi vẻ đẹp bình dị, con người hiền hòa và nhiều điểm du lịch thú vị. Một trong những nơi không thể bỏ qua khi đến Cần Thơ là Chợ nổi Cái Răng. Đây là chợ nổi lớn nhất vùng, nơi người dân buôn bán nông sản, trái cây trên ghe thuyền từ sáng sớm. Khi đến đây, du khách có thể vừa thưởng thức trái cây tươi, vừa cảm nhận nhịp sống độc đáo của miền sông nước. Ngoài ra, Bến Ninh Kiều cũng là một biểu tượng của thành phố. Với vị trí nằm bên dòng sông Hậu, bến Ninh Kiều là nơi lý tưởng để dạo mát, ngắm cảnh về đêm và thưởng thức các món ăn địa phương tại phố đi bộ. Nếu yêu thiên nhiên, bạn có thể ghé thăm vườn cò Bằng Lăng, vườn trái cây Mỹ Khánh, hoặc trải nghiệm làm nông dân tại các khu du lịch sinh thái. Ẩm thực Cần Thơ cũng rất phong phú với các món đặc sản như bánh xèo, nem nướng, cá lóc nướng trui, và đặc biệt là trái cây miệt vườn tươi ngon. Cần Thơ không chỉ là nơi để khám phá, mà còn là nơi để cảm nhận sự thanh bình, mộc mạc và ấm áp tình người. Nếu có dịp, các bạn hãy một lần đến Cần Thơ để trải nghiệm nhé!"
       },
       imgtilte2_2: {
         imageSrc: "../image/phuquoc.png",
@@ -1272,7 +1272,7 @@
       },
     },
   },
-      PodCast: {
+      Podcast: {
         postcard1: {
           imageSrc: "../image/hoianpostcast.png", 
           title: "Hội An",
@@ -1299,28 +1299,28 @@
         },
       
       },
-      WeBlog: {
-        WeBlog1: {
+      Weblog: {
+        Weblog1: {
           imageSrc: "../image/hanhtrinhtuoitre.png",
           title: "Hành trình tuổi trẻ",
         description: "Có những hành trình không chỉ để thi đấu – mà còn để cảm, để sống trọn vẹn và để mang theo suốt đời như một phần ký ức đẹp đẽ nhất. Với tôi, đó chính là những ngày tháng rong ruổi qua các tỉnh thành của đất nước, tham gia các giải đấu, và tình cờ chạm đến vẻ đẹp của quê hương theo một cách đặc biệt nhất. Tôi đã từng có mặt tại Đắk Lắk, nơi cao nguyên lộng gió và những rừng cà phê trải dài ngút mắt. Ở đó, giữa tiếng cồng chiêng và sự giản dị của con người Tây Nguyên, tôi cảm nhận được một sức sống mãnh liệt – giống như tinh thần mà mỗi vận động viên cần có khi bước vào cuộc thi. Hải Phòng là một điểm đến khác, với nhịp sống sôi động, những con phố mang hương vị biển và cả sự cởi mở, nhiệt tình rất riêng của người miền Bắc. Thi đấu ở một thành phố cảng, tôi thấy mình như được tiếp thêm năng lượng – mạnh mẽ và dứt khoát. Quảng Ngãi để lại trong tôi cảm giác yên bình và mộc mạc. Có lẽ chưa từng có nơi nào mà tôi lại thấy thời gian trôi chậm đến thế, giữa những con đường làng và những buổi chiều lặng lẽ. Sau những giờ thi đấu căng thẳng, tôi tìm thấy sự thảnh thơi mà lâu lắm rồi mình mới chạm tới. Ở An Giang, tôi lại bị choáng ngợp bởi vẻ đẹp sông nước miền Tây và văn hóa đặc sắc của vùng đất giáp biên. Người dân nơi đây chân chất, gần gũi đến lạ, và luôn sẵn sàng dành cho tôi những lời chúc may mắn bằng nụ cười thật lòng nhất. Khánh Hòa và Bình Thuận – hai điểm đến ven biển – là những nơi tôi nhớ mãi không quên. Thi đấu xong, chỉ cần đi dạo dọc bờ biển, hít một hơi thật sâu trong gió mặn và nhìn mặt trời lặn xuống đại dương, tôi như được chữa lành. Ở đó, tôi học được cách trân trọng từng khoảnh khắc nhỏ bé trong cuộc sống. Mỗi chặng đường tôi đi qua là một mảnh ghép cảm xúc. Có những lần thất bại khiến tôi lặng người, nhưng cũng có những chiến thắng vỡ òa trong nước mắt. Dẫu sao, tất cả đều góp phần tạo nên quãng thời gian đẹp nhất của tuổi trẻ – nơi tôi vừa được sống hết mình cho đam mê, vừa được cảm nhận vẻ đẹp kỳ diệu của đất nước theo cách riêng. Tôi không biết tương lai mình sẽ đi bao xa, nhưng tôi biết chắc: những ngày tháng thi đấu qua các tỉnh thành ấy – từ cao nguyên, biển cả, đến đồng bằng – sẽ luôn là một phần ký ức đáng tự hào và đầy thương nhớ.",
         },
-        WeBlog2: {
+        Weblog2: {
           imageSrc: "../image/touriswebblog.png",
           title: "Lần Đầu Đi Du Lịch? Đây Là 5 Điều Mình Ước Biết Sớm Hơn",
           description: "Với kinh nghiệm đi du lịch kha khá nơi của mình, hôm nay mình sẽ đúc kết cho bạn các tips cũng như cần chuẩn bị gì cho một chuyến đi nếu bạn lần đầu đi du lịch 1. Bạn cần lập kế hoạch cho chuyến đi Bạn nên chọn điểm đến phù hợp: Dựa vào thời gian, ngân sách và sở thích của bản thân, bạn có thể lên kế hoạch cho chuyến đi phù hợp với bạn để tránh mất thời gian mà lại không mang lại trải nghiệm đáng nhớ như lần đầu mình đi du lịch gặp phải Tìm hiểu thông tin: Khí hậu, văn hóa, ẩm thực, các điểm tham quan nơi bạn ghé thăm Đặt trước dịch vụ: Vé máy bay, khách sạn, vé tham quan để tránh tình trạng cháy phòng hoặc giá cao trong các mùa lễ hội hay du lịch. Điều này rất quan trọng vì mình đã từng bị hét giá phòng rất cao, nên hãy đặt trước trên các ứng dụng nhé. 2. Điều quan trọng thứ hai chính là hành lí Mang đồ dùng cần thiết: Quần áo phù hợp với thời tiết, giày dép thoải mái, thuốc men cá nhân, giấy tờ tùy thân. Mang các vật quan trọng như sạc dự phòng, tai nghe, ổ cắm chuyển đổi nếu đi nước ngoài. 3. Thứ ba chính là lập một ngân sách cụ thể cho các chi tiêu của bạn Lập ngân sách cụ thể cho ăn uống, di chuyển, mua sắm, vé tham quan. Nên dư một khoảng để tránh việc hao hụt Mang theo cả tiền mặt và thẻ ngân hàng, nhưng đừng mang quá nhiều tiền mặt. Tải sẵn các ứng dụng thanh toán hoặc ngân hàng số để tiện lợi hơn khi chi tiêu. 4. Nếu bạn muốn khám phá ẩm thực địa phương có thể tham khảo trước cách sau, mình đã từng áp dụng Nên tìm hiểu trước các món đặc sản và quán ăn uy tín trên Google Maps, TripAdvisor hoặc các hội nhóm du lịch. Đến những nơi có nhiều dân địa phương gợi ý sẽ đảm bảo hơn 5. Lưu giữ kỉ niệm cho chuyến đi Vì là chuyến đi đầu tiên nên mình nghĩ bạn nên chụp thật nhiều ảnh để làm kỉ niệm ở các khu vui chơi và các món ăn địa phương, có thể tham khảo cách tips sau: Chụp ảnh, quay video, viết nhật ký hành trình. Sao lưu ảnh lên Google Photos hoặc iCloud để tránh mất dữ liệu nếu lỡ mất điện thoại nhé",
         },
-        WeBlog3: {
+        Weblog3: {
           imageSrc: "../image/trainghiemphuquoc.png",
           title: "TRẢI NGHIỆM Ở PHÚ QUỐC",
           description: "Di chuyển bằng phương tiện gì ?\nCó hai cách cho bạn: máy bay hoặc di chuyển bằng tàu. Với tôi, là một người thích tối ưu chi phí và một phần không cách xa Phú Quốc là bao nên tôi chọn cách đi xe khách ra bến tàu rồi sau đó di chuyển bằng tàu. Chi phí cho 1 vé cả xe và tàu khứ hồi là khoảng 800 nghìn. Ngày xuất phát sẽ diễn ra thế nào?Trước hôm xuất phát, tôi đã chuẩn bị một số đồ dùng cá nhân cần thiết như là: đồ bơi, khăn tắm, tiền bạc, vài bộ đồ đi chơi, vài bộ đồ ngủ, các đồ linh tinh khác. Tôi xuất phát trên chuyến xe khách lúc 5h sáng cùng với một người bạn. Vì đoạn đường khá dài, bọn tôi phải đi qua thêm một xe trung gian để đến bến tàu. Bạn chỉ cần ngủ một giấc sẽ đến nơi vì trời tối chẳng có gì để ngắm đâu.Bước vào mảnh đất Rạch GiáBọn tôi được đưa xuống gần bến tàu, ở đó có các quán cà phê, quán ăn nghỉ chân. Tôi nghĩ rằng các điểm dừng chân cho khách du lịch sẽ bán giá rất cao, nhưng ở đây con người khác thân thiệt và các món ăn nước uống cũng có giá phải chăng. Tôi và bạn ăn sáng và nghỉ chân ở đây để đến giờ tàu chạy là 7h10p.Hành trình trên tàu SuperDongKhi thời gian nghỉ chân kết thúc, bọn tôi đến giờ lên tàu, vẫn không quên chụp cho mình 1 tấm ảnh trên bến tàu, các con tàu được đánh số đố sát nhau, dòng người đông đúc vì đợi tàu xuất phát làm khung cảnh trở nên ồn ào, náo nhiệt. Khi xuất phát, bọn tôi được soát vé để hướng dẫn chỗ ngồi, toa của bọn tôi không mấy đông lắm, máy lạnh thổi khác lạnh, bên ngoài là khung cảnh chiếc tàu đang rời xa cảng cùng tiếng loa hướng dẫn cứu trợ khi nguy hiểm. Tôi nhìn bên ngoài một chút thì cảm giác hơi chóng mặt do bị say tàu xe. Do thức sớm nên tôi ngủ thiếp đi lúc nào không hay. Khi bạn tôi đánh thức thì đã đến Phú Quốc.Choáng ngợp trước vẻ đẹp của Phú QuốcKhi vừa bước xuống tàu, tôi đã hơi bất ngờ khi nó lại đẹp hơn mình tưởng dù nó chỉ là phía bên ngoài hòn đảo. Con đường cảng đến đảo dài và trắng, nó thật thơ mộng cho những người sống ảo, vì phần hơi trưa nên ánh nắng không còn dễ chịu, nên trang bị cho mình một cái kính mát và mũ đội. Bọn tôi được các anh chị dịch vụ mời thuê xe để di chuyển cho tiện, sự nhiệt tình ấy cũng khiến bọn tôi khó xử vì không biết nên chọn ai. Bạn tôi đã đặt thuê sẵn một chiếc xe tay ga có trang bị chỗ để điện thoại xem map. Sau đó, bọn tôi di chuyển đến khách sạn đặt từ trước, giá cá cũng phải chăn với 250 nghìn cho một đêm.Tham quan suối Đá BànSau khi để lại các đồ dùng ở khách sạn, bọn tôi chọn suối Đá Bàn là nơi để tham quan đầu tiên vì nó gần khách sạn nhất. Vì tôi đi ngay mùa đông nên nước suối không chảy nhiều nên bọn tôi đã lội bộ sâu vào trong suối và nó không làm tôi thất vọng. Chúng tôi phải băng qua một khu rừng nhỏ để đến thượng nguồn, ở đây có những lớp đá từ cao đến thấp, hai bên là các khu rừng đầy cây. Tiếng suối chảy lách rách, tiếng côn trùng kêu inh ỏi, nghe thư giãn vô cùng. Bạn có thể trải thảm và picnic ở đây, có cả dịch vụ karaoke. Cảm nhận quán ăn tại Phú Quốc -Đầu tiên phải nói đến Bún quậy Kiến Xây, trong đó có chả và hải sản. Hơn hết, nó làm cho tôi thích thú vì cách mà mình tự pha nước sốt để chấm từ muối, đường, tắt và ớt, sự kích thích vị giác khiến bạn mong chờ một tô bún quậy để thưởng thức ngay. Giá một tô chỉ từ 40 nghìn mà bạn vẫn có thể no nê.-Các quán ăn cơm tấm, hủ tiếu, phở… lề đường có giá cũng rất phải chăng ở xứ du lịch này. Bạn nên chọn những quán đơn giản, không cầu kì nhưng vẫn đảm bảo được hương vị và độ no bụng của bạn.-Các nhà hàng hải sản thì có giá hơi đắt dp ở đây có nhiều người du lịch tham quan nên nhu cầu và phí dịch vụ khá cao. Bạn có thể chọn các nhà hàng tại chợ đêm sẽ có giả hời hơn các nhà hàng sang trọng ở các lộ lớn.-Nếu bạn muốn vưa tham quan vừa thưởng thức thì thực sự chợ đêm là nơi bạn nên đến, ở đây có bán đủ loại từ thức ăn, nước uống đến các loại quà lưu niệm mà vẫn có giá hợp lý. Đặc biệt, khi tới chợ đêm bạn sẽ được một trải nghiệm như chỉ có mình là người Việt vì có nhiều rất người nước ngoài như Hàn Quốc, Mĩ, Trung Quốc…Đi thuyền ra giữa biểnChỉ với cái giá 250 nghìn để thuê một chiếc ghe, tôi đã có thể ra các hòn lân cận của Phú Quốc. Tiếng gió rít cùng nước biển mát lạnh và các cảnh vật của thiên nhiên đầy hùng vĩ, bạn sẽ có cho mình những bộ ảnh bắt mắt. Chưa hết, bạn sẽ được hỗ trợ áo phao và ống thở để có thể bơi lội và tự mình nhìn ngắm đáy biển. Do tôi không thích ra ngoài xa nên chỉ bỏ ra mức giá đó trải nghiệm ở gần thôi. Nếu bạn hứng thú hãy chi thêm để được tự mình trải nghiệm các dịch vụ như ngắm san hô, câu cá…Khu vui chơi VinWonder Đây là một khu giải trí quy mô lớn và thu hút rất nhiều khách du lịch mỗi ngày. Mở cửa từ 10h sáng đến 17h chiều. Tôi phải xếp hàng dài để vào được cổng. Bên ngoài sảnh chờ được bố trí theo phong cách Âu Mĩ và các nhà hàng như là Pizza, Hamburger, Beefsteak…Vì khu vui chơi khá rộng nên bạn sẽ được phát một bản đầu các khu từ nhẹ tới mạnh có bao gồm công viên nước và thủy cung. Bạn sẽ được trải nghiệm những giây phút sảng khoái, quên hết áp lực khi chơi các trò chơi cảm giác mạnh tại đây, nào là tàu lượn siêu tốc, cầu trượt rơi tự do,... và nhiều trò chơi khô thú vị. Khi đến thủy cung, đập vào mắt bạn là một cái hồ chứa vô số loại cá biển, lung linh, cuốn hút như bạn đang chìm vào một lòng biển thực sự. Ở đó, bạn sẽ được nhìn thấy nhiều loại cá lạ mắt mà bạn chưa bao giờ thấy, cảm giác hứng khởi, tò mò mà không thể diễn tả được bằng lời nói. Các thời gian cố định, chúng ta sẽ được xem các chàng và các nàng tiên cá uốn lượn bên trong bể cá khổng lồ cùng với âm nhạc du dương sẽ làm tim bạn xao xuyến. Chưa dừng ở đó, khi đến công viên nước, bạn sẽ được thoả sức quậy đục nước, chơi thả ga hết mình để dẹp đi tháng ngày mệt mỏi, đa dạng các loại cầu trượt nước sẽ làm bạn tê buốt con tim. Nhưng càng chơi càng muốn chơi nữa. Bạn hãy đến và tự cho mình trải nghiệm.Sở thú SafariKhi đến đây, bạn sẽ hòa mình vào một khu rừng rộng lớn, đa dạng các loài thú, loài động vật mà có thể bạn chỉ thấy qua sách hoặc tranh. Nổi bật là các màn biểu diễn chim, xiếc thú sẽ làm bạn phải vô tay khen ngợi vì sự thông minh của chúng. Chưa hết, khi bạn đói bụng, bạn sẽ được vừa ăn vừa ngắm động vật tại các nhà hàng. Nhưng giá món ăn ở đây khá đắt thêm hơi đông đúc và cần cân nhắc hơn. Trải nghiệm tôi nhớ là hoạt động, “nhốt người” vào xe để tham quan các loài thú hoang dã như sư tử, cọp, tê giác sẽ mang lại cho bạn cảm giác thích thú và hồi họp. Nếu bạn thích một chú vẹt, dịch vụ chụp hình chung với chúng sẽ phù hợp với bạnĐại lộ Châu Âu GrandworldVới phong cách Âu Mỹ, nơi này là thiên đường cho tín đồ sống ảo, các toà nhà kiểu Pháp vô vàn màu sắc, các nhà hàng sang trọng cùng bờ hồ kéo dài đến cuối thực sự tạo nên một khung cảnh hút mắt. Nếu đến đúng ngày, bạn sẽ được tiếp đãi bằng hoạt động múa rối nước và bắn pháo hoa tại đây, nó tạo cho bạn một kỉ niệm khó quên về vùng đất thơ mộng này. Cảm giác thật nhỏ bé khi đứng giữa lòng Grandworld là điều bạn không thể tránh khỏi vì nơi đây các kiến trúc khá to lớn và sự đông đúc của nó.Kinh nghiệm khi du lịch Phú Quốc-Bạn nên trang bị cho mình về tiếng Anh giao tiếp cơ bản, sẽ thú vị hơn nếu bạn trò chuyện với người nước ngoài vì họ vô cùng thân thiện.-Cần hỏi giá trước khi ăn các quán ăn để không bị bất ngờ về mức giá trên trời ở đây-Nếu thích tắm biển yên tĩnh, bạn hãy kiếm một số bờ biển bỏ hoang trên bản đồ, ở đây bạn không phải bỏ tiền để tắm và tất nhiên cũng không có dịch vụ-Nên thuê các khách sạn ở trung tâm chợ vì mức giá sẽ bình dân hơn các nơi ở ngoài",
         },
-        WeBlog4: {
+        Weblog4: {
           imageSrc: "../image/phuquocpostcast.png",
           title: "Phú Quốc – Hành trình của những cơn sóng và tiếng cười",
           description: "Người ta bảo” Đi đâu không quan trọng, quan trọng là đi với ai”. Còn tôi thì khác: “ Đi đâu không quan trọng, quan trọng là đừng để bị say sóng!”Xin chào, tôi sẽ kể cho mọi người nghe việc tôi suýt nôn ra hết các tinh túy sáng giờ tôi ăn lúc ngồi trên tàu đi ra đảo Phú Quốc nó đáng sợ thế nào!!Ngày 1: Hành trình bắt đầuMọi chuyện bắt đầu vào một buổi sáng đẹp trời, tôi háo hức lên tàu ra đảo với tinh thần sống ảo là chính. Ban đầu lúc tàu chạy tôi cảm thấy rất bình thường, thậm chí còn ngắm mặt biển qua khung cửa kính tròn tròn kế bên ghế nữa chứ. Nhưng khi tàu bắt đầu nhấp nhô, tôi mới hiểu: Phú Quốc không dễ để yêu. Biển đẹp thật, nhưng sóng thật sự rất to. Tôi ngồi đó, cố chịu đựng cơn buồn nôn ở cổ họng, một khi đã nôn ra được thì sẽ càng ngày càng nôn, như vậy thì càng mệt hơn. Nên tôi gáng chịu đựng…Thật ra cũng có thể đi máy bay ra đảo nhưng mà tôi Nghèo, có tiền đi du lịch là đã vui lắm rồi, không còn dư để đầu tư vào nó nữa đâu. Nhưng tôi khuyên các bạn, nếu có Tiền ấy, thì đừng chọn đi tàu, không phải chỉ đi một chuyến rồi tới nơi đâu, thật ra là đi nhiều chuyến lắm.Cuối cùng thì tôi cũng thành công đặt chân được tới bờ với bộ dạng tơi tả.Ngày 2: Nhất định phải trải nghiệm!!Ngay trong chiều hôm đó, tôi đi cùng đoàn của mình, đi từ Bãi Sao đến Mũi Gành Dầu. Vậy tôi đã nhìn thấy gì? Những bãi cát trắng mịn như da em bé. Nước biển trong veo đến mức thấy được luôn cả từng ngón chân của mình dưới dòng nước. Người đi tắm biển buổi chiều rất là đông khiến không khí cả buổi chiều rất náo nhiệt. Đi biển nhất định phải ăn hải sản. Nói thật thì mua hải sản ở đây nó rẻ hơn mua rau lun á nên là có bạn nào đến Phú Quốc để du lịch thì hãy mua nhiều nhiều hải sản đem về ăn nha…Ngày 3: Chuyến xe” thả thú”Đến Vinpearl Safari Phú Quốc thì khỏi nói, vì cái nơi đó là thứ khiến tôi từ người chỉ thích ngủ trưa cũng phải mở mắt ngạc nhiên từ sáng tới chiều.Thật lòng lúc đầu tôi không quá kỳ vọng. Tôi nghĩ Safari thì cũng chỉ là sở thú kiểu mới thôi mà, cùng lắm là sạch hơn, rộng hơn. Nhưng không! Tôi sai… sai quá trời sai.Điểm đặc biệt nhất ở đây là khu bán hoang dã – nơi người được nhốt, thú được thả. Nghe hơi căng đúng không? Nhưng thật ra là tụi tôi ngồi trong xe buýt chuyên dụng, chạy chậm xuyên qua từng khu vực sống tự nhiên của các loài thú như sư tử, hổ Bengal, linh dương, hươu cao cổ… Và bạn biết không, sư tử ở ngoài đời trông oai lắm nha, chứ không nằm thở như trên tivi đâu, thật sự thì rất muốn xuống xe chạy lại gần nhìn cho kỹ, nhưng mà lỡ như xuống rồi thì không có cơ hội lên lại…Có một khoảnh khắc đáng nhớ là khi bé gấu đen tiến tới gần cửa kính, thật ra nó lớn gấp đôi người trưởng thành nhưng nhìn mặt nó siêu cute luôn. Cả xe ban đầu cũng sợ vì nó tiến lại sát quá, nhưng lúc sau thì họ bình thường trở lại. Còn  mấy đứa nhỏ thì la hét quá vì nó rất phấn khích khi nhìn thấy gấu lần đầu mà còn gần như thế nữa.Ngày 4: Nơi xả nguyên combo stress – lo âu – deadline tích tụ.Đến với VinWonders Water Park sẽ là một nơi như thiên đường dành cho trẻ em và cả những đứa trẻ “to xác” giống như tôi.Cái không khí ở đây nó rộn ràng, sôi động và đặc biệt là hợp với cả người thích vận động. Công viên nước bên trong chia làm nhiều khu, mỗi khu là một phong cách riêng, từ nhẹ nhàng cho trẻ em tới đu dây cảm giác mạnh la tới khản cổ cho mấy đứa mê phiêu lưu.Khu trượt ống xoắn: tôi thử một lần và hiểu thế nào là bị nuốt vào trong đường ống. Nó xoay, nó lượn, nó xối nước tới nỗi cảm thấy trời đất quay mòng mòng nhưng mà vui thật.Dòng sông lười: nghe tên là biết rồi ha, thật ra là thiên đường chill. Nằm phao trôi theo nước, nghe nhạc du dương, nắng dịu dịu, nước mát mát… cảm giác như đang được ôm bởi thiên nhiên vậy đó.Biển nhân tạo: sóng cao thiệt chớ! Có những đợt sóng đánh vào mà tôi bật lên khỏi phao luôn, chơi vui đến mức...trong bụng tôi toàn là nước không!Ngoài ra còn có quán ăn, nước uống sát bên, nên chơi xong đói là có đồ nạp ngay. Có những lúc bạn cần la thật to, trượt một cú thiệt mạnh xuống nước, rồi ngoi lên và cười ha hả giữa đám người lạ.Ngày 5: Chìm vào thế giới dưới đại dươngCũng tại nơi này-Thủy cung VinWonders Phú Quốc. Thủy cung ở đây không chỉ là chỗ để trẻ con mê tít mà người lớn còn phải ngạc nhiên như chưa từng thấy cá bao giờ.Ấn tượng đầu tiên: Không gian đẹp, hiện đại, mát lạnh. Bước vô trong là cảm giác khác liền, ánh sáng dịu nhẹ, không gian như được thiết kế để dẫn dắt cảm xúc từ ngạc nhiên sang thán phục. Cá thì nhiều loại không đếm xuể. Có mấy loại tôi tưởng chỉ có trong phim tài liệu nước ngoài, vậy mà đứng trước mặt mình bơi lượn chậm rãi, tự tin vô cùng.Đường hầm thủy cung ,wow thiệt sự. Đây là phần khiến tôi nhớ nhất. Bạn sẽ đi bộ dưới một đường hầm kính dài, phía trên là cá bơi lượn khắp nơi – từ cá mập, cá đuối, rùa biển khổng lồ cho tới những đàn cá nhỏ lấp lánh như mưa sao. Cảm giác đi dưới đó như... đang lạc vào thế giới khác. Có khoảnh khắc tôi ngẩn người – không phải vì cá mập, mà vì thấy lòng mình yên ắng một cách lạ lùng.-Kết thúc-Kết thúc chuyến đi – nhưng là bắt đầu của một cái “muốn quay lại” Phú Quốc. Trong tôi không chỉ là biển xanh, nắng vàng hay đồ ăn ngon. Đó là nơi tôi được sống hết mình trong từng khoảnh khắc – từ la hét ở công viên nước, ngỡ ngàng ở thủy cung, cho đến phút lặng người trước hoàng hôn. Đi rồi mới thấy: đôi khi, chỉ cần một chuyến đi đúng lúc là đủ để thấy mình… vui lại, sống lại",
         },
-        WeBlog5: {
+        Weblog5: {
           imageSrc: "../image/Nhatrangwebblog.png",
           title: "Những trải nghiệm tuyệt vời khi đi du lịch Nha Trang",
           description: "   Chào các bạn, hôm nay tôi sẽ kể cho các bạn nghe về những trải nghiệm du lịch thú vị về địa điểm Nha Trang mà tôi và gia đình đã có dịp đến thăm mảnh đất này. (Nguồn: https://antimatter.vn/anh-nha-trang/)   Chuyến đi đến Nha Trang không chỉ là những ngày nghỉ dưỡng bên biển xanh, cát trắng, nắng vàng, mà còn là một hành trình khám phá văn hóa đầy ấn tượng, để lại trong tôi nhiều cảm xúc sâu sắc. Trải nghiệm du lịch văn hóa ở Nha Trang giúp tôi hiểu hơn về chiều sâu lịch sử, về những giá trị truyền thống mà trước đây tôi chỉ từng đọc qua sách vở.   Điểm đến khiến tôi ấn tượng nhất là Tháp Bà Ponagar – một công trình kiến trúc tiêu biểu của người Chăm Pa cổ. Ngay khi bước chân đến nơi, tôi cảm nhận được sự linh thiêng bao trùm không gian. Những bức tượng đá mang nét mặt hiền từ, những cột gạch đỏ phủ rêu phong như kể lại bao câu chuyện thăng trầm của một nền văn hóa từng rực rỡ. Tôi ngồi lặng nghe tiếng nhạc dân tộc vang lên trong không gian thoáng đãng, theo dõi những điệu múa Chăm uyển chuyển, mềm mại mà đầy khí chất. Cảm giác lúc ấy thật khó tả – vừa ngưỡng mộ, vừa xúc động.    Không dừng lại ở đó, tôi còn có dịp tham gia các hoạt động trải nghiệm như làm bánh tráng, nặn gốm, đan lát cùng người dân địa phương. Dù vụng về khi xoay những vòng gốm đầu tiên, tôi vẫn cảm thấy thích thú và gần gũi lạ thường. Những nụ cười chân chất, sự kiên nhẫn của người hướng dẫn khiến tôi cảm nhận rõ hơn nét đẹp của con người nơi đây – mộc mạc, thân thiện, và gìn giữ văn hóa một cách tự nhiên, chân thành. (Làm gốm) (Đan lát)   Buổi tối, tôi đi dạo chợ đêm Nha Trang – nơi không chỉ bày bán những món đồ lưu niệm, mà còn là không gian để các nghệ nhân trình diễn những làn điệu dân ca, tiếng đàn tranh, đàn bầu réo rắt khiến tôi như lạc vào một miền ký ức xa xôi. Trong nhịp sống hiện đại, những âm thanh và hình ảnh ấy gợi cho tôi sự trân trọng đặc biệt với những giá trị truyền thống tưởng chừng như đã bị lãng quên.    Chuyến đi ấy để lại trong tôi không chỉ những bức ảnh đẹp mà còn là sự lắng đọng của cảm xúc và sự mở rộng của hiểu biết. Du lịch văn hóa ở Nha Trang chính là một hành trình gợi mở, giúp tôi nhìn thấy vẻ đẹp của một vùng đất không chỉ qua cảnh sắc thiên nhiên mà còn qua những lớp trầm tích văn hóa vô giá. Đó là một trải nghiệm mà tôi tin rằng, ai đã từng đi qua cũng sẽ mang theo trong tim mình sự nhớ thương và trân quý",
@@ -1343,7 +1343,7 @@
       return;
     }
 
-    const content = ["PodCast", "WeBlog", "Video"].includes(menus)
+    const content = ["Podcast", "Weblog", "Video"].includes(menus)
       ? contentMap[menus][section]
       : contentMap[menus][region]?.[section];
 
@@ -1362,7 +1362,7 @@
       audioEl.play().catch(() => {
         console.log("Autoplay bị chặn, chờ user tương tác.");
       });
-      if(menus === "PodCast"){
+      if(menus === "Podcast"){
         audioEl.style.display = "block";
       }
       else{
@@ -1389,8 +1389,8 @@
             li => li.textContent.trim() === hash
           );
 
-          // Nếu chọn Video, PodCast, WeBlog thì ẩn Nam/Trung/Bắc, highlight đúng mục
-          if (["Video", "PodCast", "WeBlog"].includes(hash)) {
+          // Nếu chọn Video, Podcast, Weblog thì ẩn Nam/Trung/Bắc, highlight đúng mục
+          if (["Video", "Podcast", "Weblog"].includes(hash)) {
             // Ẩn các mục Nam/Trung/Bắc nếu đang hiển thị
             chooseItems.forEach((li, idx) => {
               if (idx >= 6 && idx <= 8) li.style.display = "none";
