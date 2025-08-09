@@ -249,7 +249,7 @@ const contentMap = {
     },
   },
 },
-  PodCast: {
+  Podcast: {
     mainContent: {
       imageSrc: "../image/postcard1.png",
       title: "Chào mừng đến với PodCast",
@@ -280,7 +280,7 @@ const contentMap = {
 
 // Dữ liệu tĩnh cho PostCast, WebBlog, Video (giả lập từ index.html)
 const staticContent = {
-  PodCast: [
+  Podcast: [
     { title: "Hội An", description: "Hội An là một thành phố cổ nằm bên sông Thu Bồn, thuộc tỉnh Quảng Nam, nổi tiếng với vẻ đẹp cổ kính và bình yên. Phố cổ Hội An được UNESCO công nhận là Di sản Văn hóa Thế giới, nổi bật với những ngôi nhà mái ngói rêu phong, đèn lồng rực rỡ và kiến trúc pha trộn giữa Việt, Trung, Nhật, Pháp. Hội An hấp dẫn du khách bởi không gian trầm lắng, các lễ hội truyền thống, ẩm thực đặc sắc và những trải nghiệm như đi thuyền trên sông Hoài hay thả đèn hoa đăng vào ban đêm.", imageSrc: "../image/hoianpostcast.png" },
     { title: "Đà Lạt", description: "Đà Lạt là thành phố nằm trên cao nguyên Lâm Viên, tỉnh Lâm Đồng, nổi tiếng với khí hậu mát mẻ quanh năm, cảnh quan thơ mộng và kiến trúc cổ kính kiểu Pháp. Nơi đây được mệnh danh là thành phố ngàn hoa, thu hút du khách bởi rừng thông, hồ nước, thác đẹp, vườn hoa và không khí yên bình. Đà Lạt cũng là điểm đến lý tưởng cho nghỉ dưỡng, chụp ảnh và trải nghiệm ẩm thực độc đáo.", imageSrc: "../image/dalatpostcast.png" },
     { title: "Hà Giang", description: "Hà Giang là tỉnh địa đầu Tổ quốc, nằm ở vùng núi phía Bắc Việt Nam, nổi tiếng với cảnh quan hùng vĩ, hoang sơ và bản sắc văn hóa độc đáo. Nơi đây có những danh thắng như cao nguyên đá Đồng Văn, đèo Mã Pì Lèng, sông Nho Quế, cùng những mùa hoa tam giác mạch, mận, đào rực rỡ. Hà Giang không chỉ là nơi để chiêm ngưỡng núi non, mà còn là hành trình khám phá văn hóa của đồng bào các dân tộc như H’Mông, Dao, Lô Lô… – mộc mạc, chân thành và đầy bản sắc.", imageSrc: "../image/hagiangpostcast.png" },
@@ -325,7 +325,7 @@ function performSearch(keyword) {
   // Tìm trong contentMap
   for (const menuItem in contentMap) {
     const content = contentMap[menuItem];
-    if (["PodCast", "WebBlog", "Video"].includes(menuItem)) {
+    if (["Podcast", "WebBlog", "Video"].includes(menuItem)) {
       const fields = [
         { ...content.mainContent, type: "main", menu: menuItem, section: "mainContent" },
         ...(content.Webblog1 ? [{ ...content.Webblog1, type: "webblog", menu: menuItem, section: "Webblog1" }] : []),
@@ -375,7 +375,7 @@ function performSearch(keyword) {
     staticContent[menuItem].forEach((item, index) => {
       if (item.title.toLowerCase().includes(keyword) || (item.description?.toLowerCase().includes(keyword))) {
         let section;
-        if (menuItem === "PodCast") {
+        if (menuItem === "Podcast") {
           section = `postcard${index + 1}`;
         } else if (menuItem === "WebBlog") {
           section = `Webblog${index + 1}`;

@@ -1347,6 +1347,7 @@
       ? contentMap[menus][section]
       : contentMap[menus][region]?.[section];
 
+      
       if (content) {
       // Lấy thẻ audio & source
       const audioEl = document.getElementById("detailAudio");
@@ -1373,7 +1374,7 @@
 
   // Xử lý click menu trong nav.Menu để chuyển tab nội dung mà không reload trang
   document.addEventListener("DOMContentLoaded", function () {
-    const menuLinks = document.querySelectorAll('.Menu a[href^="#"]');
+    const menuLinks = document.querySelectorAll('.Menu a[href^="#"], .foot a[href^="#"]');
     menuLinks.forEach(link => {
       link.addEventListener("click", function (e) {
         // Chỉ xử lý khi đang ở index.html
