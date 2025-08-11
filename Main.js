@@ -149,7 +149,7 @@
         mainContent: {
           imageSrc: "image/nguqua_nam.png",
           title: "Mâm Ngũ Quả",
-          description: "Mâm ngũ quả Nam, cầu vừa đủ xài. Gợi ý: Dưa hấu, mãng cầu tại TP.HCM."
+          description: "Mâm ngũ quả ngày Tết của người miền Nam"
         },
         imgtilte2_1: {
           imageSrc: "image/tongon.png",
@@ -521,7 +521,7 @@
     // Cho phép hiển thị quảng cáo sau 10 giây
     setTimeout(() => {
       readyToAd = true;
-    }, 100000); // 10.000 ms = 10 giây
+    }, 180000); // 10.000 ms = 10 giây
 
     document.addEventListener("click", (event) => {
       if (
@@ -1165,7 +1165,7 @@
           mainContent: {
               imageSrc: "../image/nguqua_nam.png",
               title: "Mâm Ngũ Quả",
-              description: "Mâm ngũ quả miền Nam mang ý nghĩa cầu chúc vừa đủ xài, vừa đủ sung túc trong năm mới, với sự lựa chọn trái cây đặc trưng như dưa hấu (tượng trưng cho sự mát mẻ, may mắn với màu đỏ tươi), mãng cầu (cầu mong), sung (sự thịnh vượng), xoài (may mắn), và chôm chôm (tròn đầy), phản ánh phong cách sống phóng khoáng và thực dụng của người miền Nam. Tại TP.HCM, mâm ngũ quả thường được trang trí đơn giản nhưng rực rỡ với các loại trái cây nhiệt đới, đặt trên bàn thờ gia tiên hoặc bàn khách trong những ngày Tết, kết hợp với hoa mai vàng hoặc cành phượng để tăng thêm màu sắc. Đây không chỉ là nghi lễ tín ngưỡng mà còn là dịp để gia đình quây quần, kể chuyện về ý nghĩa của từng loại quả, tạo nên không khí ấm áp và vui tươi trong mùa xuân."
+              description: "Mâm ngũ quả ngày Tết của người miền Nam không chỉ là một phần trang trí trên bàn thờ gia tiên mà còn chứa đựng ước vọng, niềm tin và lời chúc tốt đẹp cho năm mới. Thường gồm các loại quả như mãng cầu, dừa, đu đủ, xoài và sung, mâm ngũ quả miền Nam gửi gắm thông điệp “Cầu vừa đủ xài sung” – mong cuộc sống luôn đủ đầy, sung túc, không thiếu thốn. Mỗi loại trái mang một ý nghĩa riêng: mãng cầu tượng trưng cho mong ước điều lành, dừa ngụ ý vừa đủ, đu đủ biểu trưng cho sự đầy đủ, xoài hàm ý tiêu xài thoải mái, và sung tượng trưng cho sự sung mãn. Trong phong tục, người miền Nam thường tránh bày chuối vì lo ngại mang ý nghĩa không may, đồng thời khéo léo sắp xếp các loại trái xen kẽ màu xanh, đỏ, vàng, tím để mâm vừa hài hòa về màu sắc vừa trọn vẹn ý nghĩa tâm linh."
           },
           imgtilte2_1: {
               imageSrc: "../image/tongon.png",
