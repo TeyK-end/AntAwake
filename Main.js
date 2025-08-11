@@ -521,7 +521,7 @@
     // Cho phép hiển thị quảng cáo sau 10 giây
     setTimeout(() => {
       readyToAd = true;
-    }, 180000); // 10.000 ms = 10 giây
+    }, 350000); // 10.000 ms = 10 giây
 
     document.addEventListener("click", (event) => {
       if (
